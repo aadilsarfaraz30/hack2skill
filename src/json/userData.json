@@ -1,0 +1,23 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "age": 28,
+        "score": 85
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "age": 32,
+        "score": 92
+      },
+      {
+        "id": 3,
+        "name": "Aadil",
+        "age": 32,
+        "score": 92
+      }
+    ]
+  }
+  
